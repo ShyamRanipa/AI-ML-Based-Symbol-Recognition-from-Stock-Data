@@ -8,7 +8,11 @@ Key Features:
 
 Tech Stack:
 Python
+
 Scikit-learn
+
 Pandas
+
 Matplotlib / Seaborn (for visualization)
+
 Jupyter Notebook
