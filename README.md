@@ -7,9 +7,8 @@ Key Features:
 🎯 Performance: Achieved 88.5% accuracy using an 80/20 train-test split.
 
 Tech Stack:
-
 Python,
 Scikit-learn,
 Pandas,
-Matplotlib / Seaborn (for visualization),
+Matplotlib(for visualization),
 Jupyter Notebook
